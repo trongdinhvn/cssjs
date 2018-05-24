@@ -117,7 +117,7 @@ $(window).load(function() {
 			$(divpopup).attr('id', 'myModal');
 			$(divpopup).attr('class', 'linhnguyen-modal');
 			$( "body" ).append(divpopup);
-			$("#myModal").html("<a href='https://bit.ly/2KOmznc' target='_blank'><img src='https://1.bp.blogspot.com/-asuaEUDrH_0/Wwazw-4zpWI/AAAAAAAABDQ/oVhKdrMydrAJstNAaF_Xhgn4xffM60z-gCLcBGAs/s400/19.Feb.jpg' width='500px'/><br/>nhượng quyền cafe giá tốt</a>. Liên hệ 0903305150. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
+			$("#myModal").html("<a href='https://bit.ly/2KOmznc' target='_blank'><img src='https://1.bp.blogspot.com/-asuaEUDrH_0/Wwazw-4zpWI/AAAAAAAABDQ/oVhKdrMydrAJstNAaF_Xhgn4xffM60z-gCLcBGAs/s400/19.Feb.jpg' width='500px'/><br/>Nhượng quyền cafe giá tốt</a>. Liên hệ 0903305150. <h2><a class='close-linhnguyen-modal'>X</a></h2>");
 			$('#myModal').linhnguyen($('#myModal').data());
 		}
 });
